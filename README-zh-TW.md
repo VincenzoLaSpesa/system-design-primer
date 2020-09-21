@@ -529,7 +529,7 @@ DNS 或是電子郵件系統使用的就是這種方式，最終一致性在高�
 ## 域名系統
 
 <p align="center">
-  <img src="images/IOyLj4i.jpg">
+  <img src="images/IOyLj4i.png">
   <br/>
   <i><a href=http://www.slideshare.net/srikrupa5/dns-security-presentation-issa>資料來源：DNS 安全介紹</a></i>
 </p>
@@ -567,7 +567,7 @@ DNS 是階層式的架構，一部分的 DNS 伺服器位於頂層，當查詢�
 ## 內容傳遞網路(CDN)
 
 <p align="center">
-  <img src="images/h9TAuGI.jpg">
+  <img src="images/h9TAuGI.png">
   <br/>
   <i><a href=https://www.creative-artworks.eu/why-use-a-content-delivery-network-cdn/>來源：為什麼要使用 CDN</a></i>
 </p>
@@ -1322,7 +1322,7 @@ def set_user(user_id, values):
 ## 通訊
 
 <p align="center">
-  <img src="images/5KeocQs.jpg">
+  <img src="images/5KeocQs.png">
   <br/>
   <i><a href=http://www.escotal.com/osilayer.html>來源：OSI 七層模型</a></i>
 </p>
@@ -1354,7 +1354,7 @@ HTTP 是依賴於較底層的協議(例如：**TCP** 和 **UDP**) 的應用層�
 ### 傳輸控制通訊協定(TCP)
 
 <p align="center">
-  <img src="images/JdAsdvG.jpg">
+  <img src="images/JdAsdvG.png">
   <br/>
   <i><a href=http://www.wildbunny.co.uk/blog/2012/10/09/how-to-make-a-multi-player-game-part-1/>來源：如何開發多人遊戲</a></i>
 </p>
@@ -1378,7 +1378,7 @@ TCP 對於需要高可靠、低時間急迫性的應用來說很有用，比如�
 ### 使用者資料流通訊協定 (UDP)
 
 <p align="center">
-  <img src="images/yzDrJtA.jpg">
+  <img src="images/yzDrJtA.png">
   <br/>
   <i><a href=http://www.wildbunny.co.uk/blog/2012/10/09/how-to-make-a-multi-player-game-part-1/>資料來源：如何製作多人遊戲</a></i>
 </p>

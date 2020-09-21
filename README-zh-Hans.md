@@ -536,7 +536,7 @@ DNS 和 email 等系统使用的是此种方式。最终一致性在高可用性
 ## 域名系统
 
 <p align="center">
-  <img src="images/IOyLj4i.jpg">
+  <img src="images/IOyLj4i.png">
   <br/>
   <strong><a href="http://www.slideshare.net/srikrupa5/dns-security-presentation-issa">来源：DNS 安全介绍</a></strong>
 </p>
@@ -574,7 +574,7 @@ DNS 和 email 等系统使用的是此种方式。最终一致性在高可用性
 ## 内容分发网络（CDN）
 
 <p align="center">
-  <img src="images/h9TAuGI.jpg">
+  <img src="images/h9TAuGI.png">
   <br/>
   <strong><a href="https://www.creative-artworks.eu/why-use-a-content-delivery-network-cdn/">来源：为什么使用 CDN</a></strong>
 </p>
@@ -1330,7 +1330,7 @@ def set_user(user_id, values):
 ## 通讯
 
 <p align="center">
-  <img src="images/5KeocQs.jpg">
+  <img src="images/5KeocQs.png">
   <br/>
   <strong><a href=http://www.escotal.com/osilayer.html>资料来源：OSI 7层模型</a></strong>
 </p>
@@ -1365,7 +1365,7 @@ HTTP 是依赖于较低级协议（如 **TCP** 和 **UDP**）的应用层协议�
 ### 传输控制协议（TCP）
 
 <p align="center">
-  <img src="images/JdAsdvG.jpg">
+  <img src="images/JdAsdvG.png">
   <br/>
   <strong><a href="http://www.wildbunny.co.uk/blog/2012/10/09/how-to-make-a-multi-player-game-part-1/">资料来源：如何制作多人游戏</a></strong>
 </p>
@@ -1389,7 +1389,7 @@ TCP  对于需要高可靠性但时间紧迫的应用程序很有用。比如包
 ### 用户数据报协议（UDP）
 
 <p align="center">
-  <img src="images/yzDrJtA.jpg">
+  <img src="images/yzDrJtA.png">
   <br/>
   <strong><a href="http://www.wildbunny.co.uk/blog/2012/10/09/how-to-make-a-multi-player-game-part-1">资料来源：如何制作多人游戏</a></strong>
 </p>

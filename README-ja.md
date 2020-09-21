@@ -530,7 +530,7 @@
 ## ドメインネームシステム
 
 <p align="center">
-  <img src="images/IOyLj4i.jpg">
+  <img src="images/IOyLj4i.png">
   <br/>
   <i><a href=http://www.slideshare.net/srikrupa5/dns-security-presentation-issa>Source: DNS security presentation</a></i>
 </p>
@@ -568,7 +568,7 @@ DNSは少数のオーソライズされたサーバーが上位に位置する�
 ## コンテンツデリバリーネットワーク(Content delivery network)
 
 <p align="center">
-  <img src="images/h9TAuGI.jpg">
+  <img src="images/h9TAuGI.png">
   <br/>
   <i><a href=https://www.creative-artworks.eu/why-use-a-content-delivery-network-cdn/>Source: Why use a CDN</a></i>
 </p>
@@ -1321,7 +1321,7 @@ def set_user(user_id, values):
 ## 通信
 
 <p align="center">
-  <img src="images/5KeocQs.jpg">
+  <img src="images/5KeocQs.png">
   <br/>
   <i><a href=http://www.escotal.com/osilayer.html>Source: OSI 7 layer model</a></i>
 </p>
@@ -1353,7 +1353,7 @@ HTTPは**TCP** や **UDP** などの低級プロトコルに依存している�
 ### 伝送制御プロトコル (TCP)
 
 <p align="center">
-  <img src="images/JdAsdvG.jpg">
+  <img src="images/JdAsdvG.png">
   <br/>
   <i><a href=http://www.wildbunny.co.uk/blog/2012/10/09/how-to-make-a-multi-player-game-part-1/>Source: How to make a multiplayer game</a></i>
 </p>
@@ -1377,7 +1377,7 @@ TCPは高い依存性を要し、時間制約が厳しくないものに適し�
 ### ユーザデータグラムプロトコル (UDP)
 
 <p align="center">
-  <img src="images/yzDrJtA.jpg">
+  <img src="images/yzDrJtA.png">
   <br/>
   <i><a href=http://www.wildbunny.co.uk/blog/2012/10/09/how-to-make-a-multi-player-game-part-1/>Source: How to make a multiplayer game</a></i>
 </p>

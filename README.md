@@ -581,7 +581,7 @@ If both `Foo` and `Bar` each had 99.9% availability, their total availability in
 ## Domain name system
 
 <p align="center">
-  <img src="images/IOyLj4i.jpg">
+  <img src="images/IOyLj4i.png">
   <br/>
   <i><a href=http://www.slideshare.net/srikrupa5/dns-security-presentation-issa>Source: DNS security presentation</a></i>
 </p>
@@ -619,7 +619,7 @@ Services such as [CloudFlare](https://www.cloudflare.com/dns/) and [Route 53](ht
 ## Content delivery network
 
 <p align="center">
-  <img src="images/h9TAuGI.jpg">
+  <img src="images/h9TAuGI.png">
   <br/>
   <i><a href=https://www.creative-artworks.eu/why-use-a-content-delivery-network-cdn/>Source: Why use a CDN</a></i>
 </p>
@@ -1370,7 +1370,7 @@ If queues start to grow significantly, the queue size can become larger than mem
 ## Communication
 
 <p align="center">
-  <img src="images/5KeocQs.jpg">
+  <img src="images/5KeocQs.png">
   <br/>
   <i><a href=http://www.escotal.com/osilayer.html>Source: OSI 7 layer model</a></i>
 </p>
@@ -1402,7 +1402,7 @@ HTTP is an application layer protocol relying on lower-level protocols such as *
 ### Transmission control protocol (TCP)
 
 <p align="center">
-  <img src="images/JdAsdvG.jpg">
+  <img src="images/JdAsdvG.png">
   <br/>
   <i><a href=http://www.wildbunny.co.uk/blog/2012/10/09/how-to-make-a-multi-player-game-part-1/>Source: How to make a multiplayer game</a></i>
 </p>
@@ -1426,7 +1426,7 @@ Use TCP over UDP when:
 ### User datagram protocol (UDP)
 
 <p align="center">
-  <img src="images/yzDrJtA.jpg">
+  <img src="images/yzDrJtA.png">
   <br/>
   <i><a href=http://www.wildbunny.co.uk/blog/2012/10/09/how-to-make-a-multi-player-game-part-1/>Source: How to make a multiplayer game</a></i>
 </p>
